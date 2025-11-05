@@ -1,3 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <!-- Имя приложения -->
     <string name="app_name">UberMonitor</string>
+
+    <!-- Описание службы специальных возможностей -->
+    <string name="accessibility_service_description">
+        UberMonitor Service — используется для анализа экрана Uber Driver и получения данных о заказах.
+    </string>
 </resources>
+
